@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A convenient service/platform to help connect a User’s friends, hobbies, and their nagging desire to stop being a Netflix addict. 
+Connecting a User’s profile to their friends’, they all try the same new hobby once a month with an option to upload pictures of the 
+finished masterpieces to brag about and compare. (The idea came from the entirety of 2020 being boring and lonely!)
 ### Features
-Include Features here
+- Secure Login/Logout (maybe Single Sign-on?)
+- Friends list (linked)
+- Photo Uploading
+- Purchasing options for product package
 ### Technologies
-Include Technologies here
+- C#/.Net
+- Angular
+- MySQL
+- PayPal's Payment API (or similar)
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to learn a bit of Angular for a more user-friendly front end experience. 
+I need to learn how to use C# to upload photos from a form.
+I have to learn how to implement a payment API.
+I also need to learn how to put multiple users photos into a grouping for viewing/comparison.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/3GekIYTe/capstone-project
