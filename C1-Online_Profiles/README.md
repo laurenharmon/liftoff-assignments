@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Link to Github](https://github.com/laurenharmon)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Link to LinkedIn](https://www.linkedin.com/in/laurenaharmon/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Link to Resume Google Doc](https://docs.google.com/document/d/1bfN6nB5aOb6cx4sNWAITIsVaROWY1XiE91RG3M8284M/edit?usp=sharing)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
