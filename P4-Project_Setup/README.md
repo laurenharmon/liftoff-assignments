@@ -8,5 +8,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 [Project Repository](https://github.com/laurenharmon/LetsTryAngular)
------
+
+### Updated README.md
 [Updated README.md](https://github.com/laurenharmon/LetsTryAngular/blob/master/README.md)
